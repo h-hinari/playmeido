@@ -1,0 +1,11 @@
+.arasuji{
+	height: 40px;
+}
+.title{
+	width: 600px;
+}
+body{
+	background-image: url("bg3.png"),url("bg2.png");
+	background-size: cover,200px;
+	background-repeat: no-repeat,repeat;
+}
