@@ -1,0 +1,43 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+  margin: 0;
+}
+
+.stage{
+  position: relative;
+  aspect-ratio: 16 / 9;
+
+  width: 100vw;
+  max-height: 100vh;
+
+  height: auto;
+  margin: auto;
+
+  background: black; /* 余白の黒帯用 */
+}
+
+
+.bg{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.cbt{
+  position: absolute;
+  top: 55.5%;
+  left: 52%;
+  width: 25%;
+  transform: translate(-50%, -50%); /*これが結構重要そう、画面の大きさに比例して位置が変わらないようにしてる*/
+}
+
+.wbt{
+  position: absolute;
+  top: 55.5%;
+  left: 77%;
+  width: 25%;
+  transform: translate(-50%, -50%);
+}
