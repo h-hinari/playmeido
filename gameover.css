@@ -1,0 +1,8 @@
+@charset "UTF-8";
+/* CSS Document */
+body{
+	background-image: url("maid_28_full.png"),url("bg4.png");
+	background-size: cover,cover;
+	background-position:top center,center;
+	background-repeat: no-repeat,no-repeat;
+}
