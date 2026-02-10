@@ -1,0 +1,9 @@
+
+.cleararasuji{
+	height: 40px;
+}
+body{
+	background-image: url("bg5.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
