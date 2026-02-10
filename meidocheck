@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="ja">
+	<head>
+		<meta charset="UTF-8">
+		<title>MeidoCheck</title>
+		<link href="meidocheck.css" rel="stylesheet" type="text/css">
+	</head>
+
+	<body>
+				<br><br><br><br><br>
+			<img class="arasuji" src="arasuji1.png"
+				 style="display: block; margin: auto;"
+				>
+				<br><br><br>
+			<img class="arasuji" src="arasuji2.png"
+				  style="display: block; margin: auto;"
+				>
+				<br><br><br><br><br><br>
+			<img  class="title" src="title.png"
+				 style="display: block; margin: auto;"
+				 >
+				<br><br><br><br><br>
+			<div style="text-align: center">
+			  	 <a href="meidocheck2.html" target="_blank">
+					  <img width="300px" src="stbutton1.png"
+						  >
+					</a>
+			</div>
+			<audio src="Oxide.mp3" autoplay loop>
+				<code>audio</code>
+			</audio>	
+	</body>
+</html>
